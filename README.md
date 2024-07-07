@@ -7,6 +7,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MrunalKakirwar/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrunalKakirwar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/MrunalKakirwar/DSA/tree/master/0322-coin-change) |
@@ -55,4 +56,8 @@ Practicing DSA
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MrunalKakirwar/DSA/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
