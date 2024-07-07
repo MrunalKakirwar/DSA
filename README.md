@@ -6,6 +6,7 @@ Practicing DSA
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/MrunalKakirwar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/MrunalKakirwar/DSA/tree/master/0525-contiguous-array) |
@@ -18,6 +19,7 @@ Practicing DSA
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -30,10 +32,15 @@ Practicing DSA
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
