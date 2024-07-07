@@ -23,6 +23,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/MrunalKakirwar/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -39,6 +40,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/MrunalKakirwar/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
