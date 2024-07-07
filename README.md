@@ -7,6 +7,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/MrunalKakirwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MrunalKakirwar/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrunalKakirwar/DSA/tree/master/0238-product-of-array-except-self) |
@@ -59,5 +60,10 @@ Practicing DSA
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MrunalKakirwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MrunalKakirwar/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
