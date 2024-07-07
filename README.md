@@ -18,6 +18,7 @@ Practicing DSA
 ## Hash Table
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/MrunalKakirwar/DSA/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/MrunalKakirwar/DSA/tree/master/0740-delete-and-earn) |
@@ -25,4 +26,12 @@ Practicing DSA
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/MrunalKakirwar/DSA/tree/master/0740-delete-and-earn) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
