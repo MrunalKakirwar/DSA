@@ -18,6 +18,7 @@ Practicing DSA
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/MrunalKakirwar/DSA/tree/master/0525-contiguous-array) |
@@ -29,6 +30,7 @@ Practicing DSA
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
