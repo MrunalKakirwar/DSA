@@ -9,6 +9,7 @@ Practicing DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/MrunalKakirwar/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MrunalKakirwar/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrunalKakirwar/DSA/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,4 +82,8 @@ Practicing DSA
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MrunalKakirwar/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
