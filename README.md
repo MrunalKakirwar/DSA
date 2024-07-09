@@ -10,6 +10,7 @@ Practicing DSA
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/MrunalKakirwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/MrunalKakirwar/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MrunalKakirwar/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrunalKakirwar/DSA/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@ Practicing DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/MrunalKakirwar/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/MrunalKakirwar/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/MrunalKakirwar/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0518-coin-change-ii) |
