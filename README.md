@@ -28,6 +28,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/MrunalKakirwar/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
@@ -88,6 +89,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Tree
 |  |
 | ------- |
@@ -107,4 +109,8 @@ Practicing DSA
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MrunalKakirwar/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MrunalKakirwar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
