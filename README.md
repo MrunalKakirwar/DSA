@@ -92,10 +92,12 @@ Practicing DSA
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MrunalKakirwar/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MrunalKakirwar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MrunalKakirwar/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MrunalKakirwar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -104,4 +106,5 @@ Practicing DSA
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MrunalKakirwar/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MrunalKakirwar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
