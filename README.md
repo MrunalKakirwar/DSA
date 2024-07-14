@@ -88,6 +88,7 @@ Practicing DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MrunalKakirwar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Tree
@@ -112,5 +113,6 @@ Practicing DSA
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MrunalKakirwar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
