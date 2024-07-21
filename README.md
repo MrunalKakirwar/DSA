@@ -63,6 +63,7 @@ Practicing DSA
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MrunalKakirwar/DSA/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MrunalKakirwar/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,11 +99,13 @@ Practicing DSA
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MrunalKakirwar/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MrunalKakirwar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MrunalKakirwar/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MrunalKakirwar/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MrunalKakirwar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MrunalKakirwar/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +115,7 @@ Practicing DSA
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MrunalKakirwar/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MrunalKakirwar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MrunalKakirwar/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Linked List
 |  |
 | ------- |
