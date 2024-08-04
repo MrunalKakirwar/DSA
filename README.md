@@ -18,6 +18,7 @@ Practicing DSA
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/MrunalKakirwar/DSA/tree/master/0525-contiguous-array) |
+| [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 | [0740-delete-and-earn](https://github.com/MrunalKakirwar/DSA/tree/master/0740-delete-and-earn) |
 ## Prefix Sum
 |  |
@@ -59,6 +60,7 @@ Practicing DSA
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Practicing DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MrunalKakirwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Practicing DSA
 | [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/MrunalKakirwar/DSA/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
 | ------- |
@@ -131,4 +135,12 @@ Practicing DSA
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MrunalKakirwar/DSA/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
