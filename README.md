@@ -15,6 +15,7 @@ Practicing DSA
 | [0198-house-robber](https://github.com/MrunalKakirwar/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrunalKakirwar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/MrunalKakirwar/DSA/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/MrunalKakirwar/DSA/tree/master/0525-contiguous-array) |
@@ -32,6 +33,7 @@ Practicing DSA
 | [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/MrunalKakirwar/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MrunalKakirwar/DSA/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/MrunalKakirwar/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrunalKakirwar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/MrunalKakirwar/DSA/tree/master/0525-contiguous-array) |
@@ -60,6 +62,7 @@ Practicing DSA
 | ------- |
 | [0049-group-anagrams](https://github.com/MrunalKakirwar/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 ## Breadth-First Search
 |  |
@@ -72,6 +75,7 @@ Practicing DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MrunalKakirwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
@@ -97,6 +101,7 @@ Practicing DSA
 | [0088-merge-sorted-array](https://github.com/MrunalKakirwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/MrunalKakirwar/DSA/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrunalKakirwar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/MrunalKakirwar/DSA/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
