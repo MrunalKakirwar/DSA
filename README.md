@@ -125,5 +125,10 @@ Practicing DSA
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MrunalKakirwar/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/MrunalKakirwar/DSA/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MrunalKakirwar/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
